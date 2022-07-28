@@ -9,3 +9,6 @@ We need to find a better way to initialize the team strength in the beginning.
 
 - Standardizing the spacing between observations
 
+### Future
+
+- Analyzing teams individually per match
