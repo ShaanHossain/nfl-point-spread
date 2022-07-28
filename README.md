@@ -22,12 +22,9 @@ Note: This command will deactivate your virtual
 
 `pip3 install -r requirements.txt`
 
-<<<<<<< Updated upstream
 asd
-=======
 
 When you restart your computer
 - Activate your virtual environment using the command from step 1 
 
 ## How to upload
->>>>>>> Stashed changes
